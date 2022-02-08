@@ -1,4 +1,4 @@
-#inclide <stdio.h>
+#include <stdio.h>
 
-int main(){return o;
+int main(){printf("Hallo, World\n");return 0;
 }
